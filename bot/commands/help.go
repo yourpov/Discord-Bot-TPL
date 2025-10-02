@@ -1,7 +1,3 @@
-// help.go - the fancy interactive help command with pagination
-// because nobody wants to scroll through 50+ commands in one giant wall of text
-// now with buttons and everything!
-
 package commands
 
 import (
