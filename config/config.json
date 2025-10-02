@@ -1,0 +1,19 @@
+{
+    "token": "",
+    "guild_id":  "",
+    "prefix": ".",
+
+    "brand": {
+        "name": "Template",
+        "icon": "https://avatars.githubusercontent.com/u/59181303?v=4"
+    },
+
+    "authenticated_ids": [
+        "1055337846657007648"
+    ],
+
+    "prefix_enabled": true,
+    "slash_enabled": true,
+    "deregister_commands_after_restart": true
+    
+}
