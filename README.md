@@ -54,8 +54,8 @@
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd Service
+git clone https://github.com/YourPOV/Discord-Bot-TPL
+cd Discord-Bot-TPL
 ```
 
 2. **Install dependencies**
